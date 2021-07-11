@@ -1,0 +1,22 @@
+{
+    "available_classes": [
+        {
+            "name": "1001",
+            "start_time": 7,
+            "end_time": 8.5 
+        },
+        {
+            "name": "1003",
+            "start_time": 8,
+            "end_time": 11.5 
+        },
+        {
+            "name": "500",
+            "start_time": 13,
+            "end_time": 15.5 
+        }
+    ],
+    "desired_classes": [
+        "1001", "500"
+    ]
+}
