@@ -19,7 +19,7 @@ Lessons, homework problems, and projects meant to teach CS fundamentals with Pyt
 
 In Lesson 5 we will make a ball bounce on the screen:
 
-![Alt text](/Lesson 5 - Thinking Logically/activity-solutions/demo.gif)
+![Alt text](/Lesson&#32;5&#32;-&#32;Thinking&#32;Logically/activity-solutions/demo.gif)
 
 ## Projects ##
 1. Pong
@@ -36,4 +36,4 @@ In Lesson 5 we will make a ball bounce on the screen:
 
 During Project 2 we will make this game:
 
-![Alt text](/Project 2 - Snake/demo.gif)
+![Alt text](/Project&#32;2&#32;-&#32;Snake/demo.gif)
